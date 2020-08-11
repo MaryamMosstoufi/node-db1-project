@@ -4,6 +4,7 @@
 SELECT *
 FROM Customers
 WHERE postalcode = 1010;
+
 -- Find the phone number for the supplier with the id 11
 SELECT Phone
 FROM Suppliers
